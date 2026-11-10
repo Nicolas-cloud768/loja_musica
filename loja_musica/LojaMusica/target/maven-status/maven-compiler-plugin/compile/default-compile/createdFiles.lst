@@ -1,0 +1,11 @@
+model\dao\ClienteDAO.class
+views\TelaCliente.class
+views\TelaPrincipal$1.class
+model\bean\Genero.class
+views\TelaPrincipal.class
+views\TelaCliente$2.class
+views\TelaPrincipal$2.class
+conexao\Conexao.class
+model\bean\Cliente.class
+views\TelaCliente$1.class
+views\TelaCliente$3.class
